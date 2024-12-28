@@ -1,8 +1,13 @@
-# React + Vite
+# Tech-Store-App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive web application to explore and review tech products like laptops, phones, and accessories. Built using HTML, CSS, JavaScript, React, and Vite, this project showcases categorized listings, product comparisons, and user-friendly navigation.
 
-Currently, two official plugins are available:
+ # Features:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Clean and responsive UI
+Product ratings and comparisons
+Trusted information sourced from official brand websites and platforms like Flipkart and Amazon
+
+📚 For Educational Purposes Only
+
+Feedback is welcome! 😊
